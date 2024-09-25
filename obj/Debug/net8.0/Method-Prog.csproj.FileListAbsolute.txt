@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Method-Prog\bin\Debug\net8.0\Method-Prog.exe
+C:\Users\Admin\Documents\GitHub\Method-Prog\bin\Debug\net8.0\Method-Prog.deps.json
+C:\Users\Admin\Documents\GitHub\Method-Prog\bin\Debug\net8.0\Method-Prog.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Method-Prog\bin\Debug\net8.0\Method-Prog.dll
+C:\Users\Admin\Documents\GitHub\Method-Prog\bin\Debug\net8.0\Method-Prog.pdb
+C:\Users\Admin\Documents\GitHub\Method-Prog\obj\Debug\net8.0\Method-Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Method-Prog\obj\Debug\net8.0\Method-Prog.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Method-Prog\obj\Debug\net8.0\Method-Prog.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Method-Prog\obj\Debug\net8.0\Method-Prog.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Method-Prog\obj\Debug\net8.0\Method-Prog.dll
+C:\Users\Admin\Documents\GitHub\Method-Prog\obj\Debug\net8.0\refint\Method-Prog.dll
+C:\Users\Admin\Documents\GitHub\Method-Prog\obj\Debug\net8.0\Method-Prog.pdb
+C:\Users\Admin\Documents\GitHub\Method-Prog\obj\Debug\net8.0\Method-Prog.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Method-Prog\obj\Debug\net8.0\ref\Method-Prog.dll
